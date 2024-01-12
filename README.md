@@ -7,3 +7,5 @@ This repository hosts books prescribed by UoD (University of Delhi, India) for <
 <b>NO COPYRIGHT INFRINGEMENT INTENDED</b>
 <hr>
 <b>Book List:</b> (will be updated every ~4-months)
+<hr>
+The repository will be archived in <b>2027</b>
