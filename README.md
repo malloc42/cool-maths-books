@@ -8,6 +8,8 @@ The repository will be archived in <b>2027</b>
 <b>SOLELY FOR EDUCATIONAL PURPOSES</b><br>
 <b>NO COPYRIGHT INFRINGEMENT INTENDED</b>
 <hr>
+You can use `Ctrl+F` to search from the available books.<br>
+However, if you want a <b>sortable table</b>, you might have to tweak around with some [things](https://stackoverflow.com/a/42845732) (PC Only).<br><br>
 <b>Book List:</b> (will be updated every ~4-months)
 <!-- table below -->
 
