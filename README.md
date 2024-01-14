@@ -9,7 +9,6 @@ The repository will be archived in <b>2027</b>
 <b>NO COPYRIGHT INFRINGEMENT INTENDED</b>
 <hr>
 <b>Book List:</b> (will be updated every ~4-months)
-<hr>
 <!-- table below -->
 
 |S.No.|Book|Author(s)|Link (PDF)|Edn, Vol|Year|Publisher|
@@ -18,7 +17,7 @@ The repository will be archived in <b>2027</b>
 |2|An Introduction to the Theory of Groups|Joseph J. Rotman|[Drive](https://drive.google.com/file/d/1d_hP2QTHhxXGxBdrbbwGcXTGD0Px9CRE/view)|4th|1995|Springer|
 |3|Calculus|Howard Anton, Irl Bivens, Stephen Davis|[GitHub](https://raw.githubusercontent.com/malloc42/cool-maths-books/main/Books/Calculus%20-%20Howard%20Anton%2c%20Irl%20Bivens%2c%20Stephen%20Davis%20(2012%2c%20Wiley)%2010th%20Edition.pdf)|10th|2012|Wiley|
 |4|Calculus: One-Variable Calculus with an Introduction to Linear Algebra|Tom M. Apostol|[Drive](https://drive.google.com/file/d/UID_GOES_HERE/view)|2nd, Vol I|1967|Wiley|
-|5|Complex Numbers from A to ... Z|Titu Andreescu, Dorin Andrica|[GitHub](https://raw.githubusercontent.com/malloc42/cool-maths-books/main/Books/Complex%20Numbers%20from%20A%20to%20...%20Z%20-%20Titu%20Andreescu%2c%20Dorin%20Andrica%20(2014%2c%20Birkh‰user)%202nd%20Edition.pdf)|2nd|2014|Birkh‰user|
+|5|Complex Numbers from A to ... Z|Titu Andreescu, Dorin Andrica|[GitHub](https://raw.githubusercontent.com/malloc42/cool-maths-books/main/Books/Complex%20Numbers%20from%20A%20to%20...%20Z%20-%20Titu%20Andreescu%2c%20Dorin%20Andrica%20(2014%2c%20Birkh√§user)%202nd%20Edition.pdf)|2nd|2014|Birkh√§user|
 |6|Contemporary Abstract Algebra|Joseph Gallian|[GitHub](https://raw.githubusercontent.com/malloc42/cool-maths-books/main/Books/Contemporary%20Abstract%20Algebra%20-%20Joseph%20Gallian%20(2017%2c%20Cengage)%209th%20Edition.pdf)|9th|2017|Cengage|
 |7|Differential Calculus|Dr. Gorakh Prasad|[Drive](https://drive.google.com/file/d/1iD277hxbqSSqPHbgD8cnE2WCBQLuE603/view)|19th|2016|Pothishala|
 |8|Differential Equations|Shepley L. Ross|[Drive](https://drive.google.com/file/d/19ApBnoAd7LlHEJ3D-igEHjpq2hqBV-ku/view)|3rd|1984|Wiley|
